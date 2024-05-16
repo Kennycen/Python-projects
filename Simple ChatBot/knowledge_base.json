@@ -1,0 +1,88 @@
+{
+  "questions": [
+    {
+      "question": "Hello",
+      "answer": "Hey there!"
+    },
+    {
+      "question": "How are you?",
+      "answer": "Good! Thanks for asking!"
+    },
+    {
+      "question": "Introduce yourself",
+      "answer": "I am a chatbot created to learn from you!"
+    },
+    {
+      "question": "How much is 2 + 2?",
+      "answer": "The answer is 4."
+    },
+    {
+      "question": "Who are you?",
+      "answer": "I am a chatbot created to assist you on tasks."
+    },
+    {
+      "question": "What is 2 + 2?",
+      "answer": "The answer is 4."
+    },
+    {
+      "question": "What is pi?",
+      "answer": "Pi is approximately 3.14159."
+    },
+    {
+      "question": "What can you do?",
+      "answer": "I can provide any answer you taught me."
+    },
+    {
+      "question": "What's your name?",
+      "answer": "I'm your friendly chatbot."
+    },
+    {
+      "question": "Tell me a joke.",
+      "answer": "Why don't scientists trust atoms? Because they make up everything!"
+    },
+    {
+      "question": "What is the capital of France?",
+      "answer": "The capital of France is Paris."
+    },
+    {
+      "question": "Who is the president of the United States?",
+      "answer": "As of my last update, the president is Joe Biden."
+    },
+    {
+      "question": "How do you work?",
+      "answer": "I use programmed responses to answer your questions."
+    },
+    {
+      "question": "What is your favorite color?",
+      "answer": "I don't have preferences, but I think all colors are great!"
+    },
+    {
+      "question": "How old are you?",
+      "answer": "I don't have an age. I'm here to help whenever you need me!"
+    },
+    {
+      "question": "Can you help me with my homework?",
+      "answer": "Sure, I'll do my best to help you with your homework!"
+    },
+    {
+      "question": "What's the weather like today?",
+      "answer": "I don't have real-time information, but you can check your local weather app."
+    },
+    {
+      "question": "Do you like music?",
+      "answer": "I don't have personal preferences, but I can help you find music information!"
+    },
+    {
+      "question": "What's the meaning of life?",
+      "answer": "That's a deep question! Many believe it's to find happiness and purpose."
+    },
+    {
+      "question": "how many states are in the U.S?",
+      "answer": "There are currently 50 states in the United States"
+    },
+    {
+      "question": "how many countries are there?",
+      "answer": "There are 195 countries in the world today. This total comprises 193 countries that are member states of the United Nations and 2 countries that are non-member observer states: the Holy See and the State of Palestine."
+    }
+  ]
+}
